@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+.venv/
+.env
+
+# Data
+data/raw/
+data/processed/
+data/warehouse/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
